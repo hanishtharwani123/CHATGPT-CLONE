@@ -1,0 +1,16 @@
+.container {
+    width: 100%;
+    display: flex;
+}
+
+
+.chat_structure {
+    display: flex;
+}
+
+.line {
+    height: 904px;
+    background: #232323;
+    border-top-width: 0px;
+    width: 1.2px;
+}
